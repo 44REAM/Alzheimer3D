@@ -1,0 +1,10 @@
+__pycache__/
+runs/
+checkpoints/
+dataset/
+.vscode/
+.ipynb_checkpoints/
+pretrained/
+results/
+*.npy
+*.csv
