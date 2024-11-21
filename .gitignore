@@ -6,5 +6,6 @@ dataset/
 .ipynb_checkpoints/
 pretrained/
 results/
+indices/
 *.npy
 *.csv
